@@ -1,2 +1,2 @@
-# Pizza-Ordering-System
-A system to help customer order pizza
+# School Project
+All school project from each sem
